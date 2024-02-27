@@ -1,0 +1,5 @@
+Exercício 1.1: Suponha que você tenha uma lista com 128 nomes e esteja fazendo uma pesquina binária. Qual seria o número máximo de etapas que você levaria para encontrar o nome desejado?
+R: Como faremos pesquisa binária poderemos levar em conta que será log2(128) que é 7. log2(128)= 7 o número máximo de etapas.
+
+Exercício 1.2: Suponha que você duplique o tamanho da lista. Qual seria o número máximo de etapas agora?
+R: Duplicando ficaria 256. Então no caso teremos log2(256)= 8. 8 etapas máximas.
